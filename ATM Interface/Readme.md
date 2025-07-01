@@ -25,6 +25,3 @@ A simple ATM simulation that allows users to interact with a bank account using 
 2. Run the `ATM` class.
 
 > Make sure both files are in the same directory.
-
-## 📹 Demo Video
-[Insert your LinkedIn demo video link here]
