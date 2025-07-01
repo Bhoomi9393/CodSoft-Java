@@ -24,6 +24,3 @@ A Java-based console application to manage student data such as name, roll numbe
 2. Run `StudentManagementSystem.java`
 
 > Data is saved in a file named `Student.Database` in the same directory.
-
-## 📹 Demo Video
-[Insert your LinkedIn demo video link here]
