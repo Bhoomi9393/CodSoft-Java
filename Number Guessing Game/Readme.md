@@ -11,6 +11,3 @@ A fun guessing game where the player has to guess a number between 1–100. The 
 
 ## ▶️ How to Run
 Compile and run `NumberGuessGame.java` in your Java IDE or terminal.
-
-## 📹 Demo Video
-[Insert LinkedIn video link here]
