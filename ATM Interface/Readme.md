@@ -1,4 +1,4 @@
-# Task 3 - ATM Interface 🏧
+# Task 3 - ATM Interface 
 
 ## 🔹 Description
 A simple ATM simulation that allows users to interact with a bank account using options like check balance, withdraw, and deposit. The system is built using Object-Oriented Programming principles.
