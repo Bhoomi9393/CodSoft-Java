@@ -18,3 +18,9 @@ This is a simple Java console application that calculates the total marks, avera
   - Grade (O, A, B, C, D, E, Fail)
   - Remarks (e.g., Outstanding, Good, Needs Improvement)
 - Handles invalid/non-numeric inputs gracefully
+
+  ## 🛠️ Technologies Used
+
+- Java (JDK 8+)
+- Scanner class for user input
+- Exception handling for input validation
