@@ -1,4 +1,4 @@
-# ☕ Java Development Internship Projects – CodSoft
+# Java Development Internship Projects – CodSoft
 
 This repository contains the projects I developed during my **Java Development Internship at CodSoft** (June–July 2025).  
 Each project demonstrates the application of core Java concepts like loops, conditionals, object-oriented programming, user input handling, and API integration.
