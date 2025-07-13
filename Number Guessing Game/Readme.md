@@ -27,5 +27,5 @@ A fun guessing game where the player has to guess a number between 1–100. The 
 3. Compile and run the file:
 
 ```bash
-javac NumberGuessingGame.java
-java NumberGuessingGame
+javac Codsoft.java
+java Codsoft
