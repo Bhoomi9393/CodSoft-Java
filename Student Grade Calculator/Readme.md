@@ -1,26 +1,48 @@
-# 📊 Marksheet Generator - Java Console Application
+# 📊 Marksheet Generator – Java Console Application
 
-This is a simple Java console application that calculates the total marks, average percentage, grade, and remarks of a student based on the number of subjects and marks entered by the user.
+This is a simple **Java console application** that calculates the **total marks**, **average percentage**, **grade**, and **remarks** of a student based on user input.
 
-> ✅ CodSoft Java Internship – Task 2  
-> 👩‍💻 Developed by: Bhoomika Chaudhary  
-> 🗓️ July 2025
+Developed as part of my **CodSoft Java Internship – Task 2**.
+
+---
+
+## ✅ Internship Details
+
+- 👩‍💻 Developed by: **Bhoomika Chaudhary**
+- 🏢 Organization: **CodSoft**
+- 🗓️ Duration: **July 2025**
+- 🧪 Task: **Marksheet Generator (Task 2)**
 
 ---
 
 ## 🚀 Features
 
-- Enter marks for any number of subjects
-- Input validation for number of subjects and marks (0–100)
+- Enter marks for **any number of subjects**
+- **Input validation** for number of subjects and marks (0–100)
 - Calculates:
-  - Total Marks
-  - Average Percentage
-  - Grade (O, A, B, C, D, E, Fail)
-  - Remarks (e.g., Outstanding, Good, Needs Improvement)
-- Handles invalid/non-numeric inputs gracefully
+  - ✅ Total Marks
+  - ✅ Average Percentage
+  - ✅ Grade (O, A, B, C, D, E, Fail)
+  - ✅ Remarks (Outstanding, Good, Needs Improvement, etc.)
+- **Handles invalid/non-numeric inputs gracefully**
 
-  ## 🛠️ Technologies Used
+---
 
-- Java (JDK 8+)
-- Scanner class for user input
+## 🛠️ Technologies Used
+
+- **Java (JDK 8+)**
+- `Scanner` class for user input
 - Exception handling for input validation
+- Conditional logic and loops
+
+---
+
+## 📁 How to Run
+
+1. Clone or download the repository
+2. Open the project in a Java IDE or terminal
+3. Compile and run the program:
+
+```bash
+javac Codsoft1.java
+java Codsoft1
