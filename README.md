@@ -13,27 +13,28 @@ A console-based game where the user tries to guess a randomly generated number w
 
 ---
 
-### 2. 🏧 ATM Interface
+### 2. 📄 Student Grade Calculator
+Java program that accepts marks of students, calculates the percentage, and generates a grade accordingly.  
+> [View Project](./Student%20Grade%20Calculator)
+
+
+---
+
+### 3. 🏧 ATM Interface
 A simple Java-based ATM simulation with features like login, balance check, deposit, and withdrawal.  
 > [View Project](./ATM%20Interface)
 
 ---
 
-### 3. 🎓 Student Management System
-A CRUD-based Java application to manage student records: add, update, delete, and view operations.  
-> [View Project](./Student%20Management%20System)
-
----
-
-### 4. 📄 Student Grade Calculator
-Java program that accepts marks of students, calculates the percentage, and generates a grade accordingly.  
-> [View Project](./Student%20Grade%20Calculator)
-
----
-
-### 5. 💱 Currency Converter
+### 4. 💱 Currency Converter
 Java application that fetches live currency exchange rates via an API and converts one currency to another.  
 > [View Project](./Currency%20Converter)
+
+---
+
+### 5. 🎓 Student Management System
+A CRUD-based Java application to manage student records: add, update, delete, and view operations.  
+> [View Project](./Student%20Management%20System)
 
 ---
 
