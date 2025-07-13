@@ -1,20 +1,67 @@
-# 💻 CODSOFT Internship - Java Development
+# ☕ Java Development Internship Projects – CodSoft
 
-## 👋 About
-This repository contains the tasks I completed during my Java Development Internship at CodSoft. Each task showcases core Java concepts like object-oriented programming, file handling, and user interaction through console-based applications.
+This repository contains the projects I developed during my **Java Development Internship at CodSoft** (June–July 2025).  
+Each project demonstrates the application of core Java concepts like loops, conditionals, object-oriented programming, user input handling, and API integration.
 
-## ✅ Tasks Completed
-1. 🎮 **Number Guessing Game** – A fun logic game with scoring and replay.
-2. 🏧 **ATM Interface** – A basic banking system for deposits, withdrawals, and balance checks.
-3. 🧑‍🎓 **Student Management System** – Add, search, and manage student records with file storage.
+---
 
-## 🛠 Technologies Used
-- Java
-- OOP (Object-Oriented Programming)
-- File I/O
-- Exception Handling
-- Console-based UI
+## 📂 Projects Included
 
-## 📬 Contact
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/bhoomika-chaudhary-04308934b)  
-Drop a message if you'd like to collaborate or give feedback!
+### 1. 🔢 Number Guessing Game
+A console-based game where the user tries to guess a randomly generated number within limited attempts.  
+> [View Project](./Number%20Guessing%20Game)
+
+---
+
+### 2. 🏧 ATM Interface
+A simple Java-based ATM simulation with features like login, balance check, deposit, and withdrawal.  
+> [View Project](./ATM%20Interface)
+
+---
+
+### 3. 🎓 Student Management System
+A CRUD-based Java application to manage student records: add, update, delete, and view operations.  
+> [View Project](./Student%20Management%20System)
+
+---
+
+### 4. 📄 Student Grade Calculator
+Java program that accepts marks of students, calculates the percentage, and generates a grade accordingly.  
+> [View Project](./Student%20Grade%20Calculator)
+
+---
+
+### 5. 💱 Currency Converter
+Java application that fetches live currency exchange rates via an API and converts one currency to another.  
+> [View Project](./Currency%20Converter)
+
+---
+
+## 📌 Internship Details
+
+- **Organization:** CodSoft  
+- **Role:** Java Development Intern  
+- **Duration:** June–July 2025  
+- **Skills Gained:** Core Java, OOP, Console-based Application Development, API Integration, Logic Building
+
+---
+
+## 🛠️ Technologies Used
+
+- Java  
+- Java I/O and Scanner Class  
+- OOP (Classes, Objects, Methods)  
+- REST API (for Currency Converter)  
+- JSON Parsing (Manual or Library)
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** [@Bhoomi9393](https://github.com/Bhoomi9393)  
+- **LinkedIn:** [Bhoomika Chaudhary](https://www.linkedin.com/in/bhoomika-chaudhary-04308934b)  
+- **Email:** bhoomi.init@gmail.com
+
+---
+
+> ✨ Thank you CodSoft for the opportunity to learn and grow through real-world Java projects!
